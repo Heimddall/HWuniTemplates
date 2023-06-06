@@ -21,3 +21,5 @@ calc(5.0,  10,   sign: "*")
 calc(5,    10,   sign: "/")
 calc(10,   5,    sign: "/")
 calc(10.0, 5,    sign: "-")
+
+calc(9, 15, sign: "/")
